@@ -1,6 +1,6 @@
 file_format: "1"
-id: pancake
-name: Pancake
+id: jocatreus
+name: jocatreus
 type: shield
 url: https://mkultra.click/pancake-keyboard-kit
 requires: [pro_micro]
