@@ -3,8 +3,10 @@
  *
  * SPDX-License-Identifier: MIT
  */
-#include "jocatreus.dtsi"
 / {
+
+#include "jocatreus.dtsi"
+
     chosen {
         zmk,kscan = &kscan0;
     };
