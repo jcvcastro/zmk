@@ -21,8 +21,7 @@
             ;
 
         col-gpios
-            = <&gpio1 4 GPIO_ACTIVE_HIGH>
-            , <&gpio0 31  GPIO_ACTIVE_HIGH>
+            = <&gpio0 31  GPIO_ACTIVE_HIGH>
             , <&gpio0 29 GPIO_ACTIVE_HIGH>
             , <&gpio0 2 GPIO_ACTIVE_HIGH>
             , <&gpio1 15 GPIO_ACTIVE_HIGH>
@@ -31,7 +30,8 @@
             , <&gpio0 24 GPIO_ACTIVE_HIGH>
             , <&gpio0 22 GPIO_ACTIVE_HIGH>
             , <&gpio0 20 GPIO_ACTIVE_HIGH>
-            , <&gpio0 17 GPIO_ACTIVE_HIGH>
+            , <&gpio0 17 GPIO_ACTIVE_HIGH>B
+            , <&gpio1 4 GPIO_ACTIVE_HIGH>
             ;
 
     };
